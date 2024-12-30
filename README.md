@@ -63,18 +63,15 @@ The Real-Time Surveillance System leverages cutting-edge AI and the MERN stack t
    \`\`\`
    Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-4. **Environment Variables:**
-   - Create a \`.env\` file at the root with the following variables:
-     \`\`\`env
-     MONGO_URI=<your-mongodb-connection-string>
-     API_KEY=<your-api-key>
-     \`\`\`
 
-5. **Start AI Microservice:**
+4. **Start AI Microservice:**
    \`\`\`bash
    python ai_service/app.py
    \`\`\`
    Ensure the AI microservice is running to process live feeds.
+
+5. **Deployed project link :**
+  [https://qadu6jfdwjmiol35.vercel.app/]([url](https://qadu6jfdwjmiol35.vercel.app/))
 
 ---
 
