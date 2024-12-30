@@ -71,7 +71,7 @@ The Real-Time Surveillance System leverages cutting-edge AI and the MERN stack t
    Ensure the AI microservice is running to process live feeds.
 
 5. **Deployed project link :**
-  [https://qadu6jfdwjmiol35.vercel.app/]([url](https://qadu6jfdwjmiol35.vercel.app/))
+ ([https://qadu6jfdwjmiol35.vercel.app/](https://qadu6jfdwjmiol35.vercel.app/))
 
 ---
 
